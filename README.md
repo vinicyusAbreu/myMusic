@@ -4,7 +4,7 @@ Landing Page de um site de musica. Desafio do GeeksforGeeks.
 ## ℹ Sobre o projeto 
 Este projeto consiste em Landing Page de um site de musica. Desenvolvido com HTML e CSS.
 
-## ✨ Demonstração
+## ✨ Demonstração    
 Veja abaixo um gif do projeto.
 [![Image from Gyazo](https://i.gyazo.com/38c81db65854f2cd5b68a7d752410efc.gif)](https://gyazo.com/38c81db65854f2cd5b68a7d752410efc)
 
