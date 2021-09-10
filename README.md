@@ -6,7 +6,7 @@ Este projeto consiste em Landing Page de um site de musica. Desenvolvido com HTM
 
 ## ✨ Demonstração    
 Veja abaixo um gif do projeto.
-[![Image from Gyazo](https://i.gyazo.com/38c81db65854f2cd5b68a7d752410efc.gif)](https://gyazo.com/38c81db65854f2cd5b68a7d752410efc)
+[![Image from imgbb](https://i.ibb.co/2PHhnWQ/Captura-da-Web-10-9-2021-153454-127-0-0-1.jpg)](https://ibb.co/WFj5xGw)
 
 
 
